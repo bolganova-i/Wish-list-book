@@ -23,7 +23,7 @@ Wish LIST - Если вы не знаете что мне подарить, по
 ## Использование
 Установите с помощью команды:
 ```sh
-git clone https://github.com/bolganova-i/timer-two.git
+git clone https://github.com/bolganova-i/Wish-list-book.git
 ```
 ## Статус разработки
 Завершена 
